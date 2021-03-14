@@ -2024,7 +2024,7 @@
 
 "@pancakeswap-libs/uikit@falafelswap/falafel-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/falafelswap/falafel-uikit/tar.gz/338d0374ed377bf39b614758bc6823ee11da6edc"
+  resolved "https://codeload.github.com/falafelswap/falafel-uikit/tar.gz/78403b503265474b14be64855514ac14c8a9cc9e"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
