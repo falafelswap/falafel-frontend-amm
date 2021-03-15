@@ -64,7 +64,7 @@ const config: MenuEntry[] = [
       },
       {
         label: "Docs",
-        href: "https://falafelswap.gitbook.io/falafel-swap/",
+        href: "https://docs.falafelswap.com/",
       },
       {
         label: "Blog",
