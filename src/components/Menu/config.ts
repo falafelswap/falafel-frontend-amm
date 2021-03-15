@@ -37,11 +37,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x9c5D0C6a3be22B5dbd18275527CC17FB6327d696',
+        href: 'https://pancakeswap.info/token/0x1d54B2d7e2b8C6F2F3A84914E8720595a579ECe4',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x5824bbe60efd1b321abb3975f07388d898da5c9f',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x35f4e1af8d76f33ce8b051b6c15050afab9e83e2',
       },
       /* {
         label: 'CoinGecko',
